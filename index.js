@@ -3,4 +3,6 @@ function kittens() {
   return kittens
 }
 
-function 
+function destructivelyAppendKitten(name) {
+  
+}
