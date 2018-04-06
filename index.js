@@ -1,3 +1,4 @@
 function kittens() {
-  var kittens = 
+  var kittens = ["Milo", "Otis", "Garfield"]
+  return kittens
 }
